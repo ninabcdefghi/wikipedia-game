@@ -1,3 +1,2 @@
-# hello-world
-test test
-blaubaslksbdskb dsanlksadnsf f d f dsf
+# wikipedia game
+work in progress. next step is visualizing the paths...
