@@ -1,5 +1,5 @@
 # wikipedia game (work in progress)
-finds the shortest connections between two sites, but can't 
+finds the shortest connection between any two wikipedia pages
 
 # to do
 - make the program print out the path it takes to get from start to goal page.
