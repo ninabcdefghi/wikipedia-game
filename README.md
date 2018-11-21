@@ -1,2 +1,7 @@
-# wikipedia game
-work in progress. finds shortest connections between two sites, but can't document the path. next step is visualizing the tested paths and make the program print out the path it takes to get from start to goal page.
+# wikipedia game (work in progress)
+finds the shortest connections between two sites, but can't 
+
+# to do
+- make the program print out the path it takes to get from start to goal page.
+- visualize the path
+- enable parallel downloads of pages so it doesn't take forever.
