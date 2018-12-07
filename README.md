@@ -6,9 +6,9 @@ finds the shortest connection between any two wikipedia pages. based on the [wik
 pip install -r requirements.txt
 ```
 
-in order to play, open "wikipedia-game.ipynb" in jupyter notebook, select a (for now only German) start (start_page) and goal page (goal_page) in the config and run the game.
+in order to play, open "wikipedia-game.ipynb" in jupyter notebook, select a (for now only German) start and goal page in the config and run the game.
 
-in case your country is censored and you cannot open the standard wikipedia URL, you can change the config's "base" variable to whereever you are accessing wikipedia from.
+in case your country is censored and you cannot open the standard wikipedia URL, you can change the "base" variable in config to whereever you are accessing wikipedia from.
 
 # to do
 - print out the number of interrogated websites every n seconds
