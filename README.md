@@ -10,6 +10,16 @@ in order to play, open "wikipedia-game.ipynb" in jupyter notebook, select a (for
 
 in case your country is censored and you cannot open the standard wikipedia URL, you can change the "base" variable in config to whereever you are accessing wikipedia from.
 
+# sample output
+
+```
+LET'S GO: Starting to search the shortest connection between https://de.wikipedia.org/wiki/Zeitzone and https://de.wikipedia.org/wiki/Februarumsturz
+
+Round 1 completed without results. Starting round 2.
+
+DONE: The goal page https://de.wikipedia.org/wiki/Februarumsturz can be reached with 2 clicks: https://de.wikipedia.org/wiki/Tschechien connects https://de.wikipedia.org/wiki/Zeitzone with https://de.wikipedia.org/wiki/Februarumsturz.
+```
+
 # to do
 - print out the number of interrogated websites every n seconds
 - save and visualize the entire path from start to goal page (anytree?)
