@@ -19,7 +19,8 @@ and https://de.wikipedia.org/wiki/Februarumsturz
 Round 1 completed without results. Starting round 2.
 
 DONE: The goal page https://de.wikipedia.org/wiki/Februarumsturz can be reached with 2 clicks: 
-https://de.wikipedia.org/wiki/Tschechien connects https://de.wikipedia.org/wiki/Zeitzone with https://de.wikipedia.org/wiki/Februarumsturz.
+https://de.wikipedia.org/wiki/Tschechien connects https://de.wikipedia.org/wiki/Zeitzone with
+https://de.wikipedia.org/wiki/Februarumsturz.
 ```
 
 # to do
