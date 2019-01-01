@@ -18,7 +18,8 @@ and https://de.wikipedia.org/wiki/Unterhaltung_(Bauwesen)
 Round 1 completed without results. Starting round 2.
 Stay tuned - 4596 links searched, none matched the goal page so far...
 
-DONE: The goal page https://de.wikipedia.org/wiki/Unterhaltung_(Bauwesen) can be reached with 2 clicks: https://de.wikipedia.org/wiki/Denkmalschutz connects https://de.wikipedia.org/wiki/Ernst-Th%C3%A4lmann-Park 
+DONE: The goal page https://de.wikipedia.org/wiki/Unterhaltung_(Bauwesen) can be reached with 2 clicks: 
+https://de.wikipedia.org/wiki/Denkmalschutz connects https://de.wikipedia.org/wiki/Ernst-Th%C3%A4lmann-Park 
 with https://de.wikipedia.org/wiki/Unterhaltung_(Bauwesen). 
 
 In total, 5828 links were searched in 1.0 minutes.
