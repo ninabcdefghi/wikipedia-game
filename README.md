@@ -23,6 +23,19 @@ https://de.wikipedia.org/wiki/Tschechien connects https://de.wikipedia.org/wiki/
 https://de.wikipedia.org/wiki/Februarumsturz.
 ```
 
+```
+LET'S GO: Starting to search the shortest connection between https://de.wikipedia.org/wiki/Ernst-Th%C3%A4lmann-Park 
+and https://de.wikipedia.org/wiki/Unterhaltung_(Bauwesen)
+
+Round 1 completed without results. Starting round 2.
+
+Stay tuned - 7540 links searched that do not match the goal page.
+
+DONE: The goal page https://de.wikipedia.org/wiki/Unterhaltung_(Bauwesen) can be reached with 2 clicks: 
+https://de.wikipedia.org/wiki/Denkmalschutz connects https://de.wikipedia.org/wiki/Ernst-Th%C3%A4lmann-Park 
+with https://de.wikipedia.org/wiki/Unterhaltung_(Bauwesen).
+```
+
 # to do
 - improve performance, it is really slow! ideas: enable parallel downloads of pages so it reaches the result quicker (concurrent requests?)
 - save and visualize the entire path from start to goal page (anytree? networkx?)
