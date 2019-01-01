@@ -24,9 +24,10 @@ https://de.wikipedia.org/wiki/Februarumsturz.
 ```
 
 # to do
+- improve performance, it is really slow! ideas: enable parallel downloads of pages so it reaches the result quicker (concurrent requests?)
 - print out the number of interrogated websites every n seconds
 - save and visualize the entire path from start to goal page (anytree?)
-- improve performance, it is really slow. ideas: enable parallel downloads of pages so it reaches the result quicker (concurrent requests!)
 - add configs for different languages
 - create a random wiki page generator
 - shorten/split up the functions to make the code more readable
+- make output look nice...
