@@ -26,8 +26,6 @@ In total, 5828 links were searched in 1.0 minutes.
 ```
 
 # to do
-- improve performance. ideas: enable parallel downloads of pages so it reaches the result quicker (threading, concurrent requests?)
 - save and visualize the entire path from start to goal page (anytree? networkx?)
-- add configs for different languages
 - include an optional random wiki page generator
 - shorten/split up the functions to make the code more readable
