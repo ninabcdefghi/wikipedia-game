@@ -20,7 +20,7 @@ Stay tuned - 2794 links searched, none matched the goal page so far...
 
 DONE: The goal page can be reached with 2 clicks.
 
-This is the path: Ernst-Th%C3%A4lmann-Park ---> GASAG ---> Kabinettsorder
+This is the path: Ernst-Thälmann-Park ---> GASAG ---> Kabinettsorder
 ```
 
 # to do
