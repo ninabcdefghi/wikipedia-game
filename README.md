@@ -13,7 +13,7 @@ in case your country is censored and you cannot open the standard wikipedia URL,
 # sample output
 ```
 LET'S GO: Starting to search the shortest connection between https://de.wikipedia.org/wiki/Ernst-
-Th%C3%A4lmann-Park and https://de.wikipedia.org/wiki/Kabinettsorder
+Thälmann-Park and https://de.wikipedia.org/wiki/Kabinettsorder
 
 Round 1 completed without results. Starting round 2.
 Stay tuned - 2794 links searched, none matched the goal page so far...
